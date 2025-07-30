@@ -1,0 +1,33 @@
+# Java
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Environment
+.env
+*.properties
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Executables
+*.exe
+*.out
